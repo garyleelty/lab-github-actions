@@ -1,6 +1,7 @@
 # lab-github-actions
 
 [![Build Status](https://github.com/garyleelty/lab-github-actions/actions/workflows/workflow.yml/badge.svg)](https://github.com/garyleelty/lab-github-actions/actions)
+[![codecov](https://codecov.io/gh/garyleelty/lab-github-actions/branch/master/graph/badge.svg?token=RR20NYP3FJ)](https://codecov.io/gh/garyleelty/lab-github-actions)
 
 This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
 
